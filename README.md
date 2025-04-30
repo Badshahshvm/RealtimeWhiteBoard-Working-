@@ -1,5 +1,5 @@
 
-## Agenda
+## Agendas
 * Project Demo
 * Template -> How to write about your project in your resume
 * foundational knowledge 
